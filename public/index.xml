@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Bird的学习博客</title>
     <link>https://Birdoc.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Bird的学习博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 23 Mar 2021 00:04:02 +0800</lastBuildDate><atom:link href="https://Birdoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://Birdoc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://Birdoc.github.io/posts/test/</link>
-      <pubDate>Tue, 23 Mar 2021 00:04:02 +0800</pubDate>
+      <link>https://Birdoc.github.io/test/</link>
+      <pubDate>Fri, 26 Mar 2021 13:21:50 +0800</pubDate>
       
-      <guid>https://Birdoc.github.io/posts/test/</guid>
-      <description>TesT ##testing</description>
+      <guid>https://Birdoc.github.io/test/</guid>
+      <description>Testing </description>
     </item>
     
   </channel>
